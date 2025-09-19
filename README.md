@@ -7,6 +7,7 @@ I design systems that scale, heal themselves, and don’t blow up the budget.
 ---
 
 ### 🛠️ Tech I Live In
+- **Frontends:** React, Next.js, Vue, Svelte, Tailwind CSS, Sass
 - **Backends:** Java (Spring Boot), Python (FastAPI/Django), Node.js, PHP, C#  
 - **Cloud & Infra:** AWS ☁️ | GCP 🌐 | Docker 🐳 | Kubernetes 🚢 | Terraform ⚙️  
 - **Data & AI:** Kafka 🔄 | Spark ⚡ | Databricks 📊 | TensorFlow 🤖 | PyTorch 🔥  
@@ -27,4 +28,4 @@ Building AI-enabled microservices, streaming data pipelines, and cloud-native pl
 
 ---
 
-📫 **Let’s Connect:**
+📫 **Let’s Connect.**
