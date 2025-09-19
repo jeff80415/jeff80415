@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Jeffrey Stewart  
 
-<!--
-**jeff80415/jeff80415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Engineer | Cloud Architect | AI Integrator**  
+I design systems that scale, heal themselves, and don’t blow up the budget.  
+15+ years building platforms where backends, data pipelines, and AI actually *work together*.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I Live In
+- **Backends:** Java (Spring Boot), Python (FastAPI/Django), Node.js, PHP, C#  
+- **Cloud & Infra:** AWS ☁️ | GCP 🌐 | Docker 🐳 | Kubernetes 🚢 | Terraform ⚙️  
+- **Data & AI:** Kafka 🔄 | Spark ⚡ | Databricks 📊 | TensorFlow 🤖 | PyTorch 🔥  
+- **Datastores:** PostgreSQL 🐘 | MySQL | Redis ⚡ | MongoDB 🍃 | RabbitMQ 🐇  
+
+---
+
+### 🌟 A Few Wins
+- ⚡ Broke down a monolith → **microservices** migration with **zero downtime**.  
+- 💸 Saved **30%+ on cloud costs** — right-sizing infra instead of overspending.  
+- 🤖 Shipped **AI APIs** from research to production traffic, rock-solid and scalable.  
+- ⏱️ Held **99.9% uptime** across critical services with proper monitoring + rollbacks.  
+
+---
+
+### 🚀 What I’m Focused On
+Building AI-enabled microservices, streaming data pipelines, and cloud-native platforms that can grow without drama.  
+
+---
+
+📫 **Let’s Connect:**
