@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Jeffrey Stewart  
+# 👋 Hi, there
 
 💻 **Backend Engineer | Cloud Architect | AI Integrator**  
 I design systems that scale, heal themselves, and don’t blow up the budget.  
-15+ years building platforms where backends, data pipelines, and AI actually *work together*.  
+5 years building platforms where backends, data pipelines, and AI actually *work together*.  
 
 ---
 
