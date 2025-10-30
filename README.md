@@ -1,8 +1,8 @@
-# 👋 Hi, there
+# 👋 Helllo!
 
 💻 **Backend Engineer | Cloud Architect | AI Integrator**  
 I design systems that scale, heal themselves, and don’t blow up the budget.  
-5 years building platforms where backends, data pipelines, and AI actually *work together*.  
+Building platforms where backends, data pipelines, and AI actually *work together*.  
 
 ---
 
